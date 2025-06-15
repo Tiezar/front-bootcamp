@@ -1,3 +1,5 @@
-# front-bootcamp
+# Bootcamp Fron-end - DIO
 Repositório dedicado ao bootcamp front-end feito na DIO.
-#É necessário esforço e dedicação para se conquistar o fracasso.
+```
+É necessário muita dedicação e esforço para se alcançar o fracasso.
+```
